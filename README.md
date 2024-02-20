@@ -1,16 +1,27 @@
-### Hi there 👋
 
-<!--
-**bhavikk/bhavikk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👋 Hey fellow coders! I'm Bhavikk
 
-Here are some ideas to get you started:
+A tech enthusiast with a knack for optimizing, innovating, and slashing costs. 
+- Dive into my coding projects and thoughts on [GitHub](https://github.com/bhavikk)
+- Keep up with my professional story on [LinkedIn](https://www.linkedin.com/in/bhavikk-shah-b57507137/).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔭 Current Endeavors 
+
+Currently immersed in the realm of technology while pursuing a **Master's in Computer Science** at Illinois Tech in Chicago, my journey is an exciting fusion of creation and perpetual learning. Here's a glimpse into my current endeavors:
+
+- Delving into intriguing full-stack projects.
+- Exploring diverse tools and libraries to enrich my skill set.
+- As an early riser, I'm consistently motivated and evolving in the dynamic tech landscape.
+
+
+Let's have some fun exploring the coding world together! 🚀
+
+## 💼 Professional Experience
+
+### Morgan Stanley | Software Developer II | 2 years
+- Revamped legacy systems, enabling faster response rates and seamless support for new exchanges.
+- Streamlined processes, slashing break detection efforts by 50%.
+
+### Oracle Financial Services Software | Software Developer | 2 years
+- Led end-to-end development of critical features for a client with over 50 million users.
+- Architected resilient infrastructures, enhancing scalability and reliability.
