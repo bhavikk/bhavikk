@@ -14,8 +14,6 @@ Currently immersed in the realm of technology while pursuing a **Master's in Com
 - As an early riser, I'm consistently motivated and evolving in the dynamic tech landscape.
 
 
-Let's have some fun exploring the coding world together! 🚀
-
 ## 💼 Professional Experience
 
 ### Morgan Stanley | Software Developer II | 2 years
@@ -25,3 +23,5 @@ Let's have some fun exploring the coding world together! 🚀
 ### Oracle Financial Services Software | Software Developer | 2 years
 - Led end-to-end development of critical features for a client with over 50 million users.
 - Architected resilient infrastructures, enhancing scalability and reliability.
+
+Let's have some fun exploring the coding world together! 🚀
